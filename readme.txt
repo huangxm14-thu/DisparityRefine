@@ -1,14 +1,14 @@
-========================================================================
-               O(1) Disparity Refinement Method for Stereo Matching
-========================================================================
+================================================================================================
+               Xiaoming Huang, and Yu-Jin Zhang,
+               An O(1) Disparity Refinement Method for Stereo Matching
+               Pattern Reognition
+================================================================================================
 * Copyright(c)2014-2015 Xiaoming Huang, <huangxm14@mails.tsinghua.edu.cn>.
 * Last update:28-2-2015. 
 
-This is the code of our work "O(1) Disparity Refinement Method for Stereo Matching",
-based on the MST work of Q.Yang [1]. 
-Reference:
+
+This is the code of our work "O(1) Disparity Refinement Method for Stereo Matching", based on the MST work of Q.Yang [1]. 
 [1] Yang Q. A non-local cost aggregation method for stereo matching. CVPR,pp: 1402-1409,2012.
-******************************************************************************
 
 
 1.Directory introduction
@@ -24,3 +24,4 @@ We built this project with VS2008, Windows7 64bit. You can build your project by
 Solution file Code\DepthRefineOnMST.sln.
 
 
+If you have any problem, please don't hesitate to contact with huangxm14@mails.tsinghua.edu.cn.
