@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioUserFile
+	ProjectType="Visual C++"
+	Version="9.00"
+	ShowAllFiles="false"
+	>
+	<Configurations>
+		<Configuration
+			Name="Debug|Win32"
+			>
+			<DebugSettings
+				Command="$(TargetPath)"
+				WorkingDirectory="D:\MyWork\Paper\StereoDepth\NonLocal\Code\VS2008_Refine\VS2008_Refine_ForPR\ReleaseDemo\Dataset\teddy"
+				CommandArguments="depth-NonlocalAgg_RefineMstFast.ppm im2.ppm depth-NonLocal_Left.ppm depth-NonLocal_Right.ppm 4"
+				Attach="false"
+				DebuggerType="3"
+				Remote="1"
+				RemoteMachine="XZZ-PC"
+				RemoteCommand=""
+				HttpUrl=""
+				PDBPath=""
+				SQLDebugging=""
+				Environment=""
+				EnvironmentMerge="true"
+				DebuggerFlavor="0"
+				MPIRunCommand=""
+				MPIRunArguments=""
+				MPIRunWorkingDirectory=""
+				ApplicationCommand=""
+				ApplicationArguments=""
+				ShimCommand=""
+				MPIAcceptMode=""
+				MPIAcceptFilter=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="Release|Win32"
+			>
+			<DebugSettings
+				Command="$(TargetPath)"
+				WorkingDirectory="D:\MyWork\Paper\StereoDepth\huangxm\PR\MyPaper\Submit20150307\Code&amp;Demo\Dataset\teddy"
+				CommandArguments="depth-NonlocalAgg_RefineMstFast.ppm im2.ppm depth-NonLocal_Left.ppm depth-NonLocal_Right.ppm 4"
+				Attach="false"
+				DebuggerType="3"
+				Remote="1"
+				RemoteMachine="XZZ-PC"
+				RemoteCommand=""
+				HttpUrl=""
+				PDBPath=""
+				SQLDebugging=""
+				Environment=""
+				EnvironmentMerge="true"
+				DebuggerFlavor="0"
+				MPIRunCommand=""
+				MPIRunArguments=""
+				MPIRunWorkingDirectory=""
+				ApplicationCommand=""
+				ApplicationArguments=""
+				ShimCommand=""
+				MPIAcceptMode=""
+				MPIAcceptFilter=""
+			/>
+		</Configuration>
+	</Configurations>
+</VisualStudioUserFile>
